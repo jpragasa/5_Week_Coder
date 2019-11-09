@@ -1,0 +1,1 @@
+# basically use open("blah.txt", 'a') to append
